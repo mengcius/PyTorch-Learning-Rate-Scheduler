@@ -3,7 +3,7 @@ PyTorch中学习率调整策略通过 torch.optim.lr_scheduler 接口实现，�
 
 a. 有序调整：等间隔Step调整、指定多间隔MultiStep调整学习率、指数衰减调整Exponential、余弦退火CosineAnnealing；
 
-b. 自适应调整：自适应调整ReduceLROnPlateau
+b. 自适应调整：自适应调整ReduceLROnPlateau；
 
 c. 自定义调整：自定义lamda调整LambdaLR
 
